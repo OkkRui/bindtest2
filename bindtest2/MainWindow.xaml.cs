@@ -26,7 +26,8 @@ namespace bindtest2
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("changes");
+            MessageBox.Show("changes in dev branch");
+            MessageBox.Show("new stuff  add in dev branch");
         } 
 
     }
